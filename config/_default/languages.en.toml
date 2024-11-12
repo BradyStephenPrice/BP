@@ -14,7 +14,7 @@ title = "Brady Price"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
+ [params.author]
    name = "Brady Price"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
