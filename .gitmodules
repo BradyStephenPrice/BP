@@ -2,3 +2,9 @@
 	path = themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
+[submodule "pulic"]
+	path = pulic
+	url = https://github.com/BradyStephenPrice/bp.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/BradyStephenPrice/bp.github.io.git
