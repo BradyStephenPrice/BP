@@ -12,7 +12,7 @@ title = "Brady Price"
    logo = "img/GREASE_LOGO.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:" All Rights Revered
+   copyright = "&copy; 2024 Brady Price. All Rights Revered."
 
  [params.author]
    name = "Brady Price"

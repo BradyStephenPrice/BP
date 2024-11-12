@@ -47,7 +47,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "/bio/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -93,7 +93,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showViews = true
   showLikes = true
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true
   cardView = true
@@ -105,13 +105,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [taxonomy]
   showTermCount = true
-  showHero = false
+  showHero = true
    heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = false
-  cardView = false
+  cardView = true
 
 [term]
   showHero = false
