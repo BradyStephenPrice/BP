@@ -11,19 +11,25 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Bio"
-  pageRef = "bio"
+  name = "Home"
+  pageRef = "/"
   weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+ name = "Bio"
+  pageRef = "bio"
+  weight = 20
 
 [[main]]
   name = "How To"
 #  parent = "Parent"
   pageRef = "howto"
-  weight = 20
+  weight = 30
+
+[[main]]
+  name = "Fertilizers"
+  url = "https://www.growwithgrease.com/"
+  weight = 40
 
 #[[main]]
 #  name = "example sub-menu 2"
@@ -42,6 +48,18 @@
 #  pageRef = "categories/awesome"
 #  weight = 20
 
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/organic_innovations/"
+  weight = 200
+
+ [[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://youtube.com/@ride128"
+  weight = 300
+ 
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
