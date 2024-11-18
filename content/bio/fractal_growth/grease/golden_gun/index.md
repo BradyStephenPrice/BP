@@ -1,0 +1,5 @@
+---
+Title: Golden Gun
+
+---
+
