@@ -27,9 +27,15 @@
   weight = 30
 
 [[main]]
+  name = "Books"
+#  parent = "Parent"
+  pageRef = "books"
+  weight = 40
+
+[[main]]
   name = "Fertilizers"
   url = "https://www.growwithgrease.com/"
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 2"
